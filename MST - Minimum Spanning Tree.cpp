@@ -1,3 +1,6 @@
+//PRIM'S Algorithm
+
+
 #include <iostream>
 #include <bits/stdc++.h>
 int INF = 1e9;
